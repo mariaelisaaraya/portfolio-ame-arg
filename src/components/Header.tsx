@@ -16,7 +16,7 @@ export function Header() {
     >
       <div className="flex items-center">
         <Flower className="text-gray-500 ml-2" size={24} />
-        <span className="text-gray-500 ml-2">Maria Elisa Araya</span>
+        <span className="text-gray-500 ml-2">Portfolio</span>
       </div>
       <nav className="flex items-center gap-8">
         <motion.a
