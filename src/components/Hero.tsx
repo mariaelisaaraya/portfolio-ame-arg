@@ -14,7 +14,7 @@ const skills = [
 
 export function Hero() {
   return (
-    <section className="text-center py-16">
+    <section className="text-center py-16 px-4 sm:px-8 md:px-16 lg:px-32">
       <div className="mb-8">
         <img
           src="https://avatars.githubusercontent.com/u/42949801?v=4"
@@ -32,7 +32,7 @@ export function Hero() {
         </motion.span>
       </div>
 
-      <h1 className="text-5xl font-bold mb-4">
+      <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">
         Tecnología e Innovación
         <br />
         al Servicio de Grandes Proyectos
