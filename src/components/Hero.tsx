@@ -34,8 +34,6 @@ export function Hero() {
 
       <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">
         Tecnología e Innovación
-        <br />
-        al Servicio de Grandes Proyectos
       </h1>
       <p className="text-gray-400 mb-12">
         Mi nombre <span className="text-white">María Elisa Araya</span>,
