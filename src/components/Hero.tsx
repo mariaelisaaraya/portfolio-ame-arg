@@ -2,14 +2,18 @@ import { motion } from "framer-motion";
 
 const skills = [
   "Angular",
-  "Figma",
-  "MySQL",
   "Next.js",
-  "Node.js",
-  "PostgreSQL",
   "React",
+  "Node.js",
+  "Golang",
+  "MySQL",
+  "MongoDB",
+  "PostgreSQL",
   "Supabase",
+  "Figma",
   "UX/UI",
+  "GitHub",
+  "GitLab",
 ];
 
 export function Hero() {
@@ -33,12 +37,11 @@ export function Hero() {
       </div>
 
       <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">
-        Tecnología e Innovación
+        Desarrolladora FrontEnd
       </h1>
       <p className="text-gray-400 mb-12">
         Mi nombre <span className="text-white">María Elisa Araya</span>,
-        desarrolladora full-stack con experiencia en Web, UX/UI y soluciones
-        escalables.
+        desarrolladora con experiencia en UX/UI y BackEnd.
         <br />
         Diseño y construyo productos digitales sólidos, centrados en la persona
         usuaria.
