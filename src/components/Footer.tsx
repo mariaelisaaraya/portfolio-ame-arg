@@ -11,12 +11,6 @@ export function Footer() {
               Sobre mi
             </a>
           </div>
-          <a
-            href="mailto:maria.elisa.araya.work@gmail.com"
-            className="text-sm text-gray-400 hover:text-white"
-          >
-            maria.elisa.araya.work@gmail.com
-          </a>
         </div>
         <div className="mt-4 text-sm text-gray-600 text-center md:text-left">
           <p>Copyright © 2025</p>
