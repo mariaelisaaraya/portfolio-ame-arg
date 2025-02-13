@@ -4,17 +4,11 @@ export function Footer() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-8 mb-4 md:mb-0">
-            <a href="#home" className="hover:text-white">
-              Home
-            </a>
-            <a href="#work" className="hover:text-white">
-              Work
+            <a href="#projects" className="hover:text-white">
+              Proyectos
             </a>
             <a href="#about" className="hover:text-white">
-              About
-            </a>
-            <a href="#contact" className="hover:text-white">
-              Contact
+              Sobre mi
             </a>
           </div>
           <a
