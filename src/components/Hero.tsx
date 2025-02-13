@@ -43,7 +43,7 @@ export function Hero() {
         Mi nombre <span className="text-white">María Elisa Araya</span>,
         desarrolladora con experiencia en UX/UI y BackEnd.
         <br />
-        Diseño y construyo productos digitales sólidos, centrados en la persona
+        Diseño y construyo productos digitales sólidos centrados en la persona
         usuaria.
       </p>
 
