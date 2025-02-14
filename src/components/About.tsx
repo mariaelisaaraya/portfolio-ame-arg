@@ -31,15 +31,16 @@ export function About() {
             <img
               src="https://avatars.githubusercontent.com/u/42949801?v=4"
               alt="Me working"
-              className="rounded-lg w-full h-auto md:h-[400px] object-cover"
+              className="rounded-lg w-full h-auto md:h-[430px] object-cover"
             />
           </div>
 
           <div className="space-y-6">
             <p className="text-gray-400">
-              Hola, soy María Elisa, desarrolladora frontend y entusiasta de la
-              innovación tecnológica. Con experiencia en React, Next.js y Web3,
-              me especializo en crear interfaces optimizadas, accesibles y
+              Hola, mi nombre es María Elisa pero en el mundo de Sistemas me
+              dicen Lisa, desarrolladora frontend y entusiasta de la innovación
+              tecnológica. Con experiencia en React, Next.js y Web3, me
+              especializo en crear interfaces optimizadas, accesibles y
               dinámicas que brindan experiencias fluidas y envolventes.
             </p>
 
