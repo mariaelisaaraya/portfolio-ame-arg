@@ -69,9 +69,9 @@ export function ProjectDetail1() {
             <div>
               <h2 className="text-2xl font-semibold mb-4">La Solución</h2>
               <p className="text-gray-400">
-                Investigación y Diseño: Se realizó un análisis de UX/UI con
-                prototipos en Figma, priorizando accesibilidad y engagement
-                visual.
+                Investigación y Diseño: Con el equipo realizamos un análisis de
+                UX/UI con prototipos en Figma, priorizando accesibilidad y
+                engagement visual.
               </p>
               <p className="text-gray-400">
                 Desarrollo Frontend con Next.js: La plataforma se construyó con
