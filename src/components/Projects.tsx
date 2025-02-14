@@ -19,7 +19,7 @@ const projects = [
   {
     category: "Next - Figma - UX UI",
     title: "DefiWise 2024",
-    image: "/src/images/defiWise1.png",
+    image: "images/defiWise1.png",
     path: "/project/defiwise",
   },
   {
