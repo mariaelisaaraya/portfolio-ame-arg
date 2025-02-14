@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { ArrowLeft } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { ContactButton } from "../components/ContactButton";
-import defiwise1 from "../public/defiwise1.png";
+//import defiwise1 from "../public/defiwise1.png";
 import defiwise2 from "../public/defiwise2.png";
 import defiwise3 from "../public/defiwise3.png";
 
@@ -40,7 +40,7 @@ export function ProjectDetail1() {
           </div>
 
           <motion.img
-            src={defiwise1}
+            //src={defiwise1}
             alt="Defiwise Project"
             className="w-full rounded-lg"
             initial={{ scale: 0.95 }}
