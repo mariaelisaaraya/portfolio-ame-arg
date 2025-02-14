@@ -45,16 +45,15 @@ export function Contact() {
               @ar3lisa en Telegram
             </motion.a>
 
-            <motion.a
+            <a
               href="https://www.linkedin.com/in/mariaelisaaraya/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex justify-end items-center gap-3 text-gray-400 hover:text-white"
-              whileHover={{ x: 4 }}
             >
               <Linkedin size={20} />
               LinkedIn
-            </motion.a>
+            </a>
           </div>
         </div>
       </motion.div>
