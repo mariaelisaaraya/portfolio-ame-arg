@@ -2,6 +2,8 @@ import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 
+//import { img } from "framer-motion/client";
+
 const projects = [
   /* {
     
@@ -25,7 +27,7 @@ const projects = [
   {
     category: "HTML - CSS - JavaScript - NodeJs - MySQL - PostgreSQL",
     title: "YPF - Ingenias 2024/2023",
-    image: "/src/images/ingenias1.png",
+    image: "/ingenias1.png",
     path: "/project/ingenias",
   },
 ];
