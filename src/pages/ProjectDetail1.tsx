@@ -29,10 +29,8 @@ export function ProjectDetail1() {
           <div className="text-center max-w-3xl mx-auto">
             <h1 className="text-4xl font-bold mb-4">DefiWise</h1>
             <p className="text-gray-400">
-              DeFiWise revolucionó la educación financiera al integrar
-              tecnología blockchain y gamificación, ganando el 1er puesto en la
-              Latina Blockchain Hackathon 2024 y siendo reconocida por la
-              adopción del protocolo ENS.
+              DeFiWise integra tecnología blockchain y gamificación ganando el
+              1er puesto en la Latina Blockchain Hackathon 2024.
             </p>
           </div>
 
