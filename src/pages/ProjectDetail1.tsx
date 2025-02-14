@@ -2,9 +2,6 @@ import { motion } from "framer-motion";
 import { ArrowLeft } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { ContactButton } from "../components/ContactButton";
-//import defiwise1 from "../public/defiwise1.png";
-import defiwise2 from "../public/defiwise2.png";
-import defiwise3 from "../public/defiwise3.png";
 
 export function ProjectDetail1() {
   const navigate = useNavigate();
@@ -40,7 +37,7 @@ export function ProjectDetail1() {
           </div>
 
           <motion.img
-            //src={defiwise1}
+            src="/defiwise1.png"
             alt="Defiwise Project"
             className="w-full rounded-lg"
             initial={{ scale: 0.95 }}
@@ -97,14 +94,13 @@ export function ProjectDetail1() {
 
           <div className="grid grid-cols-2 gap-6">
             <motion.img
-              src={defiwise2}
-              //{certificate}
+              src="/defiwise2.png"
               alt="defiwise2"
               className="w-full h-[300px] object-cover rounded-lg"
               whileHover={{ scale: 1.02 }}
             />
             <motion.img
-              src={defiwise3}
+              src="/defiwise3.png"
               alt="defiwise3"
               className="w-full h-[300px] object-cover rounded-lg"
               whileHover={{ scale: 1.02 }}
