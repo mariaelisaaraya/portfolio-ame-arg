@@ -26,39 +26,39 @@ export function About() {
       >
         <h2 className="text-2xl sm:text-3xl font-semibold mb-8">Sobre mi</h2>
 
+        <div className="space-y-6">
+          <p className="text-gray-400">
+            Hola, mi nombre es María Elisa pero en el mundo de Sistemas me dicen
+            Lisa, desarrolladora frontend y entusiasta de la innovación
+            tecnológica. Con experiencia en React, Next.js y Web3, me
+            especializo en crear interfaces optimizadas, accesibles y dinámicas
+            que brindan experiencias fluidas y envolventes.
+          </p>
+
+          <p className="text-gray-400">
+            Mi enfoque combina diseño y funcionalidad, asegurando que cada
+            proyecto no solo sea visualmente atractivo, sino también eficiente y
+            escalable. He trabajado en proyectos que van desde plataformas
+            educativas hasta integraciones con blockchain, siempre priorizando
+            la experiencia del usuario.
+          </p>
+
+          <p className="text-gray-400">
+            Cuando no estoy programando, me vas a encontrar explorando nuevas
+            tecnologías, investigando sobre blockchain y AI, practicando
+            jiu-jitsu o colaborando en iniciativas que fusionan creatividad y
+            tecnología.
+          </p>
+        </div>
+
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-12">
-          <div>
+          {/*           <div>
             <img
               src="https://avatars.githubusercontent.com/u/42949801?v=4"
               alt="Me working"
               className="rounded-lg w-full h-auto md:h-[430px] object-cover"
             />
-          </div>
-
-          <div className="space-y-6">
-            <p className="text-gray-400">
-              Hola, mi nombre es María Elisa pero en el mundo de Sistemas me
-              dicen Lisa, desarrolladora frontend y entusiasta de la innovación
-              tecnológica. Con experiencia en React, Next.js y Web3, me
-              especializo en crear interfaces optimizadas, accesibles y
-              dinámicas que brindan experiencias fluidas y envolventes.
-            </p>
-
-            <p className="text-gray-400">
-              Mi enfoque combina diseño y funcionalidad, asegurando que cada
-              proyecto no solo sea visualmente atractivo, sino también eficiente
-              y escalable. He trabajado en proyectos que van desde plataformas
-              educativas hasta integraciones con blockchain, siempre priorizando
-              la experiencia del usuario.
-            </p>
-
-            <p className="text-gray-400">
-              Cuando no estoy programando, me vas a encontrar explorando nuevas
-              tecnologías, investigando sobre blockchain y AI, practicando
-              jiu-jitsu o colaborando en iniciativas que fusionan creatividad y
-              tecnología.
-            </p>
-          </div>
+          </div> */}
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
