@@ -86,9 +86,7 @@ export function About() {
 
         {posicionesAnimales.length > 0 && (
           <>
-            <h3 className="text-xl font-semibold text-center mt-8">
-              Mis Compañeros Peludos 🐶
-            </h3>
+            <h3 className="text-xl font-semibold text-center mt-8">🐶🐶🐶🐱</h3>
             {posicionesAnimales.map((pos, index) => (
               <motion.img
                 key={index}
