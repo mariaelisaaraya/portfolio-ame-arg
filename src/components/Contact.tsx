@@ -48,7 +48,6 @@ export function Contact() {
             <a
               href="https://www.linkedin.com/in/mariaelisaaraya/"
               target="_blank"
-              rel="noopener noreferrer"
               className="flex justify-end items-center gap-3 text-gray-400 hover:text-white"
             >
               <Linkedin size={20} />
