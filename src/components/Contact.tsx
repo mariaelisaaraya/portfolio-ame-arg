@@ -34,6 +34,15 @@ export function Contact() {
               maria.elisa.araya.work@gmail.com
             </motion.a>
 
+            <a
+              href="https://www.linkedin.com/in/mariaelisaaraya/"
+              target="_blank"
+              className="flex justify-end items-center gap-3 text-gray-400 hover:text-white"
+            >
+              <Linkedin size={20} />
+              arayamariaelisa en LinkedIn
+            </a>
+
             <motion.a
               href="https://t.me/ar3lisa"
               target="_blank"
@@ -44,15 +53,6 @@ export function Contact() {
               <MessageCircle size={20} />
               @ar3lisa en Telegram
             </motion.a>
-
-            <a
-              href="https://www.linkedin.com/in/mariaelisaaraya/"
-              target="_blank"
-              className="flex justify-end items-center gap-3 text-gray-400 hover:text-white"
-            >
-              <Linkedin size={20} />
-              LinkedIn
-            </a>
           </div>
         </div>
       </motion.div>

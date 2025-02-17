@@ -19,10 +19,10 @@ export function About() {
   ];
 
   const animales = [
-    { src: "/Aquiles.PNG", alt: "Aquiles que se duerme" },
-    { src: "/Zoe.PNG", alt: "Zoe mirando sin mucho interés" },
-    { src: "/Lola.PNG", alt: "Lola haciendo su carita" },
-    { src: "/Renata.PNG", alt: "Renata disfrutando del sol" },
+    { src: "/Aquiles.png", alt: "Aquiles que se duerme" },
+    { src: "/Zoe.png", alt: "Zoe mirando sin mucho interés" },
+    { src: "/Lola.png", alt: "Lola haciendo su carita" },
+    { src: "/Renata.png", alt: "Renata siendo mesa" },
   ];
 
   const agregarAnimal = () => {
