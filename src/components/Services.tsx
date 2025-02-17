@@ -6,22 +6,22 @@ const services = [
   {
     title: "Desarrollo Frontend",
     description:
-      "Creación de interfaces optimizadas y dinámicas con React y Next.js. Implementación de SSR, SSG y animaciones fluidas para mejorar la experiencia del usuario.",
+      "Desarrollo de interfaces optimizadas y dinámicas con React y Next.js, implementando SSR, SSG y animaciones fluidas para mejorar la experiencia del usuario. Experiencia en pruebas unitarias con Angular.",
   },
   {
     title: "Diseño UI/UX",
     description:
-      "Prototipado y diseño de interfaces en Figma priorizando accesibilidad y engagement. Enfoque en diseño responsivo y optimización de la experiencia de usuario.",
+      "Prototipado y diseño de interfaces en Figma, priorizando accesibilidad, diseño responsivo y optimización de la experiencia del usuario. Enfoque en investigación y desarrollo de productos digitales.",
   },
   {
     title: "Integración Web3",
     description:
-      "Conexión con contratos inteligentes en Solidity desde el frontend. Implementación de wallets, ENS y NFTs para mejorar la usabilidad de DApps.",
+      "Integración de contratos inteligentes en Solidity desde el frontend, incluyendo la implementación de wallets, ENS y NFTs para mejorar la usabilidad de DApps.",
   },
   {
     title: "Backend y APIs",
     description:
-      "Desarrollo de APIs escalables con Node.js y Express. Integración con bases de datos MySQL, PostgreSQL y Supabase para manejar datos de manera eficiente.",
+      "Desarrollo de APIs escalables con Node.js y Express, con integración eficiente de bases de datos como MySQL, PostgreSQL y Supabase. Experiencia en pruebas con Golang.",
   },
 ];
 
