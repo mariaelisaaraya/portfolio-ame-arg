@@ -10,6 +10,18 @@ export function Footer() {
             <a href="#about" className="hover:text-white">
               Sobre mi
             </a>
+            <a
+              href="https://www.linkedin.com/in/arayamariaelisa/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-6 h-6 hover:opacity-80 transition-opacity"
+            >
+              <img
+                src="https://img.icons8.com/?size=100&id=447&format=png&color=000000"
+                alt="LinkedIn"
+                className="w-6 h-6 invert"
+              />
+            </a>
           </div>
         </div>
         <div className="mt-4 text-sm text-gray-600 text-center md:text-left">

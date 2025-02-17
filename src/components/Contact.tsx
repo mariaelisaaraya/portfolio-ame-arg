@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Mail, MessageCircle, Linkedin } from "lucide-react";
+import { Mail, MessageCircle } from "lucide-react";
 
 export function Contact() {
   return (
@@ -33,15 +33,6 @@ export function Contact() {
               <Mail size={20} />
               maria.elisa.araya.work@gmail.com
             </motion.a>
-
-            <a
-              href="https://www.linkedin.com/in/mariaelisaaraya/"
-              target="_blank"
-              className="flex justify-end items-center gap-3 text-gray-400 hover:text-white"
-            >
-              <Linkedin size={20} />
-              arayamariaelisa en LinkedIn
-            </a>
 
             <motion.a
               href="https://t.me/ar3lisa"
