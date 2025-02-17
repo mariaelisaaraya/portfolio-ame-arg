@@ -20,7 +20,7 @@ export function About() {
 
   const animales = [
     { src: "/defiwise1.png", alt: "Aquiles que se duerme" },
-    { src: "/Zoe.png", alt: "Zoe mirando sin mucho interés" },
+    { src: "/zoe.png", alt: "Zoe mirando sin mucho interés" },
     { src: "/Lola.png", alt: "Lola haciendo su carita" },
     { src: "/Renata.png", alt: "Renata siendo mesa" },
   ];
