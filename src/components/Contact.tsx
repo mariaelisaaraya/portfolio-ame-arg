@@ -18,7 +18,7 @@ export function Contact() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           <div className="space-y-6">
             <p className="text-gray-400">
-              Siempre estoy abierta a nuevas oportunidades y proyectos copados.
+              Siempre estoy abierta a nuevas oportunidades laborales y proyectos que me puedan desafiar.
               Si tenés alguna pregunta o simplemente querés saludar, ¡mandame un
               mensaje y charlamos!
             </p>
