@@ -32,16 +32,16 @@ export function Hero() {
             scale: 1.05,
           }}
         >
-          Available for work
+          Disponible para Trabajar
         </motion.span>
       </div>
 
       <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">
-        Desarrolladora FrontEnd
+        Desarrolladora FullStack
       </h1>
       <p className="text-gray-400 mb-12">
-        Mi nombre <span className="text-white">María Elisa Araya</span>,
-        desarrolladora con experiencia en UX/UI y BackEnd.
+        Mi nombre es <span className="text-white">María Elisa Araya</span>,
+        tengo experiencia en UX/UI, BackEnd y FrontEnd.
         <br />
         Diseño y construyo productos digitales sólidos centrados en la persona
         usuaria.
