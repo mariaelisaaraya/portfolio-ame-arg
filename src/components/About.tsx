@@ -51,10 +51,11 @@ export function About() {
         <div className="space-y-6">
           <p className="text-gray-400">
             Hola, mi nombre es María Elisa pero en el mundo de Sistemas me dicen
-            Lisa, desarrolladora frontend y entusiasta de la innovación
-            tecnológica. Con experiencia en React, Next.js y Web3, me
+            Lisa, desarrolladora FullStack y entusiasta de la innovación
+            tecnológica. Con experiencia en React, Next.js, NodeJs y Golang. Me
             especializo en crear interfaces optimizadas, accesibles y dinámicas
-            que brindan experiencias fluidas y envolventes.
+            que brindan experiencias fluidas y envolventes. Desde junio marzo 2024 
+            estoy aprendiendo web3 y he realizado varios proyectos y hackathones
           </p>
 
           <p className="text-gray-400">
@@ -62,7 +63,7 @@ export function About() {
             proyecto no solo sea visualmente atractivo, sino también eficiente y
             escalable. He trabajado en proyectos que van desde plataformas
             educativas hasta integraciones con blockchain, siempre priorizando
-            la experiencia del usuario.
+            la experiencia de la persona usuaria.
           </p>
 
           <p className="text-gray-400">
