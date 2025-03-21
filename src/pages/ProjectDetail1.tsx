@@ -58,7 +58,7 @@ export function ProjectDetail1() {
                 integrada con ENS.
               </p>
               <p className="text-gray-400">
-                Tecnología Frontend: Utilizar Next.js para optimizar el
+                Tecnología Frontend: Se utiliza React para optimizar el
                 rendimiento y mejorar la experiencia del usuario, con
                 animaciones fluidas y carga dinámica de contenido.
               </p>
@@ -72,8 +72,8 @@ export function ProjectDetail1() {
                 engagement visual.
               </p>
               <p className="text-gray-400">
-                Desarrollo Frontend con Next.js: La plataforma se construyó con
-                Next.js. Se implementaron módulos educativos interactivos con un
+                Desarrollo Frontend con React: La plataforma se construyó con
+                React. Se implementaron módulos educativos interactivos con un
                 diseño gamificado.
               </p>
               <p className="text-gray-400">
@@ -84,8 +84,8 @@ export function ProjectDetail1() {
               </p>
               <p className="text-gray-400">
                 Optimización UX: Se incorporaron microinteracciones y mejoras en
-                la accesibilidad, asegurando una experiencia envolvente para el
-                usuario.
+                la accesibilidad, asegurando una experiencia envolvente para la
+                persona usuaria.
               </p>
             </div>
           </div>
