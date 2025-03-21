@@ -19,7 +19,7 @@ const projects = [
       "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?w=500&q=80",
   },*/
   {
-    category: "Next - Figma - UX UI",
+    category: "Next - Figma - UX UI - Web3",
     title: "DefiWise 2024",
     image: "/defiwise1.png",
     path: "/project/defiwise",
@@ -36,7 +36,7 @@ export function Projects() {
   return (
     <section className="px-4 sm:px-8 md:px-16 lg:px-32 py-8" id="projects">
       <div className="flex justify-between items-center mb-8">
-        <h2 className="text-2xl font-semibold">🔥 Proyectos Destacados</h2>
+        <h2 className="text-2xl font-semibold">🔥 Proyectos Destacados🔥</h2>
         <motion.a
           href="https://github.com/mariaelisaaraya"
           target="_blank"
